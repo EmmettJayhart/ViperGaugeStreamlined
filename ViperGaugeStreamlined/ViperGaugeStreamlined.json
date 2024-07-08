@@ -1,0 +1,8 @@
+{
+    "Author": "Reicsa, Emmett Jayhart",
+    "Name": "Viper Gauge Streamlined",
+    "Punchline": "Goodbye Vipersight/Anguine... Hello Rattling Coil/Serpent Offerings!",
+    "Description": "Removes the useless gauges for Vipersight and Anguine Tribute while still keeping Rattling Coil and Serpent Offerings when using Simple mode.",
+    "ApplicableVersion": "any",
+    "Tags": ["job", "viper", "gauge", "plugin", "emmett", "reicsa"]
+}
